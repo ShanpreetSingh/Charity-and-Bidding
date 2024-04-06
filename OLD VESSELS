@@ -1,0 +1,15 @@
+{
+    "name": "OLD VESSSELS",
+    "description": "THESE ARE OLD INDIAN STYLED VESSELS",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "VESSELS",
+            "value": "With Old architecture"
+        },
+        {
+            "trait_type": "COST",
+            "value": "$300"
+        }
+    ]
+}
