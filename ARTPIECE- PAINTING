@@ -8,8 +8,8 @@
             "value": "Raja Ravi Verma"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "COST",
+            "value": "$50000"
         }
     ]
 }
