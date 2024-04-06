@@ -1,0 +1,12 @@
+{
+    "name": "JEWELLERY",
+    "description": "This famous jewellery has been braught from France,1789.",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "COST",
+            "value": "$1000000"
+        },
+        
+    ]
+}
