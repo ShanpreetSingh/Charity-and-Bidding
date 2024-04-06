@@ -1,0 +1,15 @@
+{
+    "name": "ARTPIECE 1",
+    "description": "RAJA RAVI VERMA PAINTING",
+    "image": "https://www.artfervour.com/wp-content/uploads/2022/11/689c7e_c2a73874dc8c4d318a8d6e8e7fc847ecmv2.jpg",
+    "attributes": [
+        {
+            "trait_type": "ARTIST:",
+            "value": "Raja Ravi Verma"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
