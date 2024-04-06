@@ -1,7 +1,7 @@
 {
     "name": "JEWELLERY",
     "description": "This famous jewellery has been braught from France,1789.",
-    "image": "image url",
+    "image": "https://thediamondtalk.in/wp-content/uploads/2020/05/temple-2.jpg",
     "attributes": [
         {
             "trait_type": "COST",
