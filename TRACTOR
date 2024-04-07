@@ -1,0 +1,15 @@
+{
+    "name": "OLD TRACTOR",
+    "description": "FORD 8N",
+    "image": "https://bringatrailer.com/wp-content/uploads/2023/08/1951_ford_8n-tractor_tempimageah038b-20406.jpg?fit=940%2C627",
+    "attributes": [
+        {
+            "trait_type": "COMPANY:",
+            "value": "FORD"
+        },
+        {
+            "trait_type": "COST",
+            "value": "$5000"
+        }
+    ]
+}
