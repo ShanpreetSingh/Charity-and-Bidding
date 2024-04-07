@@ -1,12 +1,15 @@
 {
-    "name": "ANTIQUE COMMODITIES",
-    "description": "These are the antique commodities ,about 200 years old.",
-    "image": "https://okcredit-blog-images-prod.storage.googleapis.com/2020/12/antique1.jpg",
+    "name": "ANTIQUES",
+    "description": "THESE ARE OLD INDIAN STYLED COMMODITIEES",
+    "image": "https://img.freepik.com/free-photo/view-vintage-objects-still-life_23-2150348530.jpg",
     "attributes": [
         {
-            "trait_type": "COST",
-            "value": "$1000000"
+            "trait_type": "ANTIQUES",
+            "value": "With Old DESIGNS"
         },
-        
+        {
+            "trait_type": "COST",
+            "value": "$300"
+        }
     ]
 }
